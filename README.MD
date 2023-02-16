@@ -34,9 +34,9 @@
 - Being able to customize and implement a new data structure
 
 ### Weeks: 
-- Week1: [Videos 1 to 5 (Stack Array Based)](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=1)
-- Week2: [Videos 6 and 7 (Linked List)](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=1)
-- Week3: [Videos 10 and 11 (Queue)](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca&index=1)
+- [Week14](Weeks/Week14.md): Stack Array Based 
+- [Week15](Weeks/Week15.md): Linked List
+- [Week16](Weeks/Week16.md): Queue
 #### Final Project
 
 ## Advanced : Interfacing
