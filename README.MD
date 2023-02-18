@@ -25,7 +25,7 @@
 ### Weeks
 
 #### Final Project
-## Intermediate : Data Structure
+## Intermediate : Data Structure & Embedded C
 ![Data Structures](Resources/Data%20Structures.png)
 
 ### Objectives:
@@ -35,9 +35,10 @@
 
 ### Weeks: 
 - [Week14:](Weeks/Week14.md) Stack Array Based 
-- [Week15:](Weeks/Week15.md) Linked List
-- [Week16:](Weeks/Week16.md) Queue
-#### Final Project
+- [Week15:](Weeks/Week15.md) Linked List & Queue
+- [Week16:](Weeks/Week16.md) Data Structure Project
+- [Week17:](Weeks/Week17.md) Embedded C - Part1
+- [Week18:](Weeks/Week18.md) Embedded C - Part2
 
 ## Advanced : Interfacing
 ![Interfacing](Resources/Interfacing.png)
