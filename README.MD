@@ -10,17 +10,18 @@
 ## Levels:
 
 
-- Beginner : C Language
-- Intermediate: Data Structure
-- Advanced: Embedded C & Interfacing
+- Beginner : Introduction to Embedded & C Language
+- Intermediate: Data Structure & Embedded C
+- Advanced: Interfacing
 
 ## Beginner : C Language
 ![C Language](Resources/C_Language.jpg)
 
 ### Objectives:
+- Learning concepts related to basics of embedded systems 
 - Learning concepts related to basics of programming, such as: compiler, IDE, packages, libraries
 - Learning about the compilation process
--  Learning C programming language Syntax
+- Learning C programming language Syntax
 - Solving many programming problems using C language
 ### Weeks
 
@@ -32,6 +33,7 @@
 - Having a good background about Data structures
 - Learning about Stack, Queue and Linked list
 - Being able to customize and implement a new data structure
+- Learning how to use C in Embedded (Embedded C)
 
 ### Weeks: 
 - [Week14:](Weeks/Week14.md) Stack Array Based 
@@ -44,9 +46,8 @@
 ![Interfacing](Resources/Interfacing.png)
 
 ### Objectives:
-- Learning about boot loader, linker script and makefile
 - Studying Atmega32(AVR) and writing drivers for it
-- Learning  communication protocols (USART, SPI, I2C)
+- Learning communication protocols (USART, SPI, I2C)
 
 ### Weeks
 
