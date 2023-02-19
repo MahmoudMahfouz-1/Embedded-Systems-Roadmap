@@ -46,9 +46,17 @@
 ![Interfacing](Resources/Interfacing.png)
 
 ### Objectives:
-- Studying Atmega32(AVR) and writing drivers for it
+- Studying Atmega32(AVR) and PIC microcontrollers and writing drivers for them
+- Learning about Interrupts and how do they work ?
+- Writing Driver for GPIO and LCD
 - Learning communication protocols (USART, SPI, I2C)
 
-### Weeks
+### Weeks:
+- [Week19:](Weeks/Week19.md) How Electricity Works ?
+- [Week20:](Weeks/Week20.md) Interfacing 
+- [Week21:](Weeks/Week21.md) GPIO & LCD
+- [Week22:](Weeks/Week22.md) Interrupt & Shared Data Problem
+- [Week23:](Weeks/Week23.md) UART & SPI
+- [Week24:](Weeks/Week24.md) Stack, Exception handling, C Start up & Linker Script
 
 #### Final Project
