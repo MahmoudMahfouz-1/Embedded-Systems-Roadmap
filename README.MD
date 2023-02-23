@@ -35,6 +35,7 @@
 - [Week8:](Weeks/Week8.md) Mini Project 2
 - [Week9:](Weeks/Week9.md) Strings
 - [Week10:](Weeks/Week10.md) Pointers
+- [Week11:](Weeks/Week11.md) User-Defined Data Types
 
 #### Final Project
 ## Intermediate : Data Structure & Embedded C
