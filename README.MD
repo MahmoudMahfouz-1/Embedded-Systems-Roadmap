@@ -10,12 +10,13 @@
 ## Levels:
 
 
-- Beginner : Introduction to Embedded & C Language
+- Beginner : Introduction to Embedded Systems & C Language
 - Intermediate: Data Structure & Embedded C
 - Advanced: Interfacing
 
-## Beginner : C Language
+## Beginner : Introduction to Embedded Systems & C Language
 ![C Language](Resources/C_Language.jpg)
+
 
 ### Objectives:
 - Learning concepts related to basics of embedded systems 
@@ -24,6 +25,16 @@
 - Learning C programming language Syntax
 - Solving many programming problems using C language
 ### Weeks
+- [Week1:](Weeks/Week1.md) Introduction to Embedded Systems - Part1
+- [Week2:](Weeks/Week2.md) Introduction to Embedded Systems - Part2
+- [Week3:](Weeks/Week3.md) C Basics
+- [Week4:](Weeks/Week4.md) Conditional & Loop Statements 
+- [Week5:](Weeks/Week5.md) Mini Project 1
+- [Week6:](Weeks/Week6.md) Functions
+- [Week7:](Weeks/Week7.md) Arrays
+- [Week8:](Weeks/Week8.md) Mini Project 2
+- [Week9:](Weeks/Week9.md) Strings
+- [Week10:](Weeks/Week10.md) Pointers
 
 #### Final Project
 ## Intermediate : Data Structure & Embedded C
