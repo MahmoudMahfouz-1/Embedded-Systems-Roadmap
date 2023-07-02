@@ -3,6 +3,6 @@
 https://www.youtube.com/playlist?list=PLUzpamnPJdEehcAwwzoq71Yf3gpQQ12wI
 
 ## Task:
-- Study Videos 5 & 6
+- Study Videos from 5 to 9 (9 included)
 - summary each video in one page and upload them
 
