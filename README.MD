@@ -1,6 +1,7 @@
 <div style="display: flex;align-items:center;">
   <div><img src="Resources/Embedded_System_Intro_Types_Applications_Architecture_and_Examples.jpg" width="100%"/></div>
 </div>
+
 # A Road Map For Embedded Systems
 
 >This roadmap was created for the Embedded Systems committee in ***IEEE Mansoura Computer Society Chapter*** by Mahmoud Essam Mahfouz, head of the committee. I hope you get the most benefit from it.
@@ -66,6 +67,7 @@
 <div style="display: flex;align-items:center;">
   <div><img src="Resources/Interfacing%20New.PNG" width="100%"/></div>
 </div>
+
 ### Objectives:
 - Studying Atmega32(AVR) and PIC microcontrollers and writing drivers for them
 - Learning about Interrupts and how do they work ?
