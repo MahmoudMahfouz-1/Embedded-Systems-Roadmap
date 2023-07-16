@@ -32,6 +32,7 @@
 ### Weeks
 - [Week1:](Weeks/Week1.md) Introduction to Embedded Systems - Part1
 - [Week2:](Weeks/Week2.md) Introduction to Embedded Systems - Part2
+- [**Second Offline Meeting**](Weeks/2nd%20Offline%20Meeting.md)
 - [Week3:](Weeks/Week3.md) C Basics
 - [Week4:](Weeks/Week4.md) Conditional & Loop Statements 
 - [Week5:](Weeks/Week5.md) Mini Project 1
